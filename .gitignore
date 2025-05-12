@@ -14,7 +14,7 @@ database/*.db
 database/*.sqlite
 *.db
 
-# Saídas de relatórios ou PDFs gerados
+
 *.pdf
 
 # Configurações do sistema operacional / IDEs
