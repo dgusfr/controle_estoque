@@ -17,7 +17,7 @@ database/*.sqlite
 
 *.pdf
 
-# Configurações do sistema operacional / IDEs
+
 .DS_Store
 Thumbs.db
 .idea/
