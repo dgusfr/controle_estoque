@@ -47,7 +47,7 @@ Lista dos requisitos funcionais previstos para o sistema (conforme o relatório 
 * [x] RF10. Cadastro de categorias e fornecedores.
 * [x] RF11. Relatório de vendas diário.
 * [x] RF12. Autenticação para uso (Login/Logout).
-* [ ] RF13. Gerenciamento de usuários com permissões.
+* [x] RF13. Gerenciamento de usuários com permissões.
 * [x] RF14. Sistema rodando localmente via servidor Flask.
 * [x] RF15. Histórico de vendas e movimentações (Modelos definidos).
 * [x] RF16. Interface responsiva e intuitiva (Uso inicial de Bootstrap 5).
