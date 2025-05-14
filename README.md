@@ -45,7 +45,7 @@ Lista dos requisitos funcionais previstos para o sistema (conforme o relatório 
 * [x] RF08. Cálculo automático do troco.
 * [x] RF09. Geração de comprovante de venda em PDF.
 * [x] RF10. Cadastro de categorias e fornecedores.
-* [ ] RF11. Relatório de vendas diário.
+* [x] RF11. Relatório de vendas diário.
 * [x] RF12. Autenticação para uso (Login/Logout).
 * [ ] RF13. Gerenciamento de usuários com permissões.
 * [x] RF14. Sistema rodando localmente via servidor Flask.
